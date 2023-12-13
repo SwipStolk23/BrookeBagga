@@ -67,14 +67,7 @@ blockquote {
   margin: 1em;
 }
 
-.gallerytitle {
+h2 {
   font-weight: bold;
   font-size: xx-large;
-}
-
-.bblogoblackglow {
-  margin: auto;
-  display: block;
-  height: 23em;
-  width: auto;
 }
