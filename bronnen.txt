@@ -1,0 +1,59 @@
+Bronnenlijst:
+
+Gif homepagina:
+https://www.3dgifmaker.com/180Spin 
+
+Homepage banner:
+https://firefly.adobe.com/generate/images?prompt=vast+dystopian+landscape+featuring+brutalist+buildings+in+an+expressionist+artstyle+featuring+dark+grimy+grey+blue+black+white+color+in+an+expressionist+artstyle&styles=%5B%22art%22%5D&seed=21780&seed=46152&seed=93313&seed=98125&aspectRatio=landscape&dl=en-US&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Spotify Playlist:
+https://open.spotify.com/playlist/6KaKiT4N21R5M8w1onjhuS?si=18837f5151d74d60
+Zelf samengestelde playlist 'embed' code uit Spotify. 
+
+
+Gallery
+
+Urban Reverie
+
+https://firefly.adobe.com/generate/images?prompt=3d+animated+black+man+with+dreadlocks+wearing+all+black+rick+owens+style+outfit+with+big+black+sunglasses+featuring+grimy+cement+cementry+background&styles=%5B%22wide_angle%22%5D&seed=32642&seed=19052&seed=78217&seed=15032&aspectRatio=portrait&dl=en-US&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Endless Shadows
+
+https://firefly.adobe.com/generate/images?prompt=dark+ominous+black+void+feeling+like+a+never+ending+empty+space&styles=%5B%22art%22%5D&seed=21815&seed=46817&seed=30459&seed=81629&aspectRatio=landscape&dl=en-US&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Harmony in Contrast
+
+
+https://firefly.adobe.com/generate/images?prompt=ethiopian+man+with+dreadlocks+walking+through+ethiopian+village+looking+out+of+place+carrying+a+shield+2d+vector&styles=%5B%22art%22%2C%22wide_angle%22%2C%22warm_colors%22%2C%22dramatic_light%22%2C%22dark%22%5D&seed=8546&seed=2342&seed=37661&seed=56865&aspectRatio=portrait&dl=en-US&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Ethereal Highlands
+
+https://firefly.adobe.com/generate/images?prompt=broad+ethiopian+highlands+landscape+3d+vector+artstyle&styles=%5B%22art%22%2C%22warm_tone%22%2C%22dramatic_light%22%2C%22landscape_photography%22%5D&seed=788&seed=57175&seed=9989&seed=30684&aspectRatio=landscape&dl=nl-NL&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Shop
+
+Blanco T-Shirt zelf getekend bronnen zijn voor opdruk. 
+
+
+Floating Tee
+
+https://firefly.adobe.com/generate/images?prompt=man+floating+in+a+deep+dark+ominous+black+void+feeling+like+a+never+ending+empty+space+3d+animated+pixar+style&styles=%5B%22art%22%2C%22fantasy%22%5D&seed=3501&seed=45583&seed=185&seed=74092&aspectRatio=landscape&dl=en-US&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Bauhaus Tee
+
+https://firefly.adobe.com/generate/images?prompt=bauhaus+design+building+grey+black+white+dark+colors&styles=%5B%22art%22%5D&seed=85718&seed=22528&seed=11458&seed=1806&aspectRatio=square&dl=en-US&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+About me 
+
+Image 1
+https://firefly.adobe.com/generate/images?prompt=3d+animated+web+development&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=251&seed=20874&seed=12469&seed=14080&aspectRatio=portrait&dl=nl-NL&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+Image 2 
+https://firefly.adobe.com/generate/images?prompt=travel+the+world+3d+animated+globe&styles=%7B%22mode%22%3A%22manual%22%2C%22value%22%3A%5B%5D%7D&seed=14927&seed=31655&seed=92623&seed=94592&aspectRatio=square&dl=nl-NL&modelInputVersion=v2&guideStrength=50&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&creativity=6&promptType=user-written
+
+Image 3
+https://firefly.adobe.com/generate/images?prompt=african+man+running+down+a+spiral+at+night+going+nowhere+featuring+a+starry+nightsky+featuring+dark+grey+blue+purple+and+black+colors+3d+animated+pixar+style&styles=%5B%22art%22%2C%22wide_angle%22%5D&seed=788&seed=12879&seed=42258&seed=33419&aspectRatio=portrait&dl=en-US&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
+
+
+
+
