@@ -54,6 +54,18 @@ https://firefly.adobe.com/generate/images?prompt=travel+the+world+3d+animated+gl
 Image 3
 https://firefly.adobe.com/generate/images?prompt=african+man+running+down+a+spiral+at+night+going+nowhere+featuring+a+starry+nightsky+featuring+dark+grey+blue+purple+and+black+colors+3d+animated+pixar+style&styles=%5B%22art%22%2C%22wide_angle%22%5D&seed=788&seed=12879&seed=42258&seed=33419&aspectRatio=portrait&dl=en-US&modelInputVersion=v1&browserId=bf052da3-08c6-446e-8cf1-c74b4747f319&promptType=inspiration
 
+Bronnen tekst gallery:
+https://chat.openai.com/c/f27d2677-3920-4d3c-9ef0-a9cbd4989de1
+
+Bronnen homepage tekst:
+https://chat.openai.com/c/ed6134c6-3171-4fcc-8486-f7aeeab93cb5
+
+Bronnen about me tekst:
+https://chat.openai.com/c/3e7fa93b-1495-4012-b547-e76d23fd12d1
+
+
+
+
 
 
 
